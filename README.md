@@ -6,7 +6,7 @@ I'm primarily working on the [Quest Network](questnetwork.github.io/docs) to get
 
 We're always looking for help and support! Collaborate on our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) or [help us build a non-profit for it](https://questnetwork.github.io/docs/#/support-us)!
 
-You can also try our latest Web Demo: 
+Try our latest Web Demo! 
 
 <img src='https://github.com/QuestNetwork/qd-messages-ts/raw/0.9.4/doc/images/pinatalink.png?raw=true' width=25%> <img src='https://github.com/QuestNetwork/qd-messages-ts/raw/0.9.4/doc/images/cloudflarelink.png?raw=true' width=25%> <img src='https://github.com/QuestNetwork/qd-messages-ts/raw/0.9.4/doc/images/ipfsiolink.png?raw=true' width=25%>
 
