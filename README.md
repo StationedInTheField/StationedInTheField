@@ -4,7 +4,7 @@ I'm a writer, graphic designer, illustrator, animation specialist, vfx artist, m
 
 I'm primarily working on the [Quest Network](questnetwork.github.io/docs) to get everything ready for the [Vibenarium](https://github.com/Vibenarium/vibenarium-platform), a collaborative, decentralized and free platform to create digital media and games. Check out what we already created on our [channel](https://www.youtube.com/channel/UCGyt7UEQ_ZifRp05Zts1sDQ) and our first [station](https://www.youtube.com/channel/UC_QKIvRD6sPm03bGmk9YPuw)!
 
-We're always looking for help and support! Collaborate on our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) or [help us build a non-profit for it](https://questnetwork.github.io/docs/#/support-us). 
+We're always looking for help and support! Collaborate on our [Kanban](https://github.com/orgs/QuestNetwork/projects/1) or [help us build a non-profit for it](https://questnetwork.github.io/docs/#/support-us)!
 
 You can also try our latest Web Demo: 
 
