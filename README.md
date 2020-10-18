@@ -1,4 +1,4 @@
-### Hi There ![=)](http://cdn.lowgif.com/full/da41524b711474c5-smiley-face-smile-sticker-for-ios-android-giphy.gif)
+### Hi There <img src=http://cdn.lowgif.com/full/da41524b711474c5-smiley-face-smile-sticker-for-ios-android-giphy.gif height=20px>
 
 I'm a writer, graphic designer, illustrator, animation specialist, vfx artist, motion designer, compositor, editor, voice actor, sfx artist, audio/software/web engineer and cryptographer.
 
